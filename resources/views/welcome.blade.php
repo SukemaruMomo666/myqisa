@@ -142,8 +142,8 @@
                 </div>
 
                 <div data-aos="fade-up" class="break-inside-avoid relative group cursor-pointer">
-                     <img src="https://placehold.co/700x900/d9f99d/4d7c0f?text=Random+Pose" class="w-full h-auto object-cover object-center rounded-[2rem] shadow-xl border-4 border-white group-hover:scale-105 transition-all duration-300">
-                    <div class="absolute top-4 left-4 bg-white p-2 rounded-full shadow-lg">🐸</div>
+                     <img src="{{ asset('Foto/F2.jpeg') }}" class="w-full h-auto object-cover object-center rounded-[2rem] shadow-xl border-4 border-white group-hover:scale-105 transition-all duration-300">
+                    <div class="absolute top-4 left-4 bg-white p-2 rounded-full shadow-lg"></div>
                 </div>
 
             </div>
